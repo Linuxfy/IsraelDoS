@@ -1,9 +1,9 @@
-# NoRussian
+# ISRAEL DoS
 ### Volunteer DoS tool via HTML + JS
 
 Made to be user friendly and simple to use - as to maximize the amount of people able to help.
 
-Running the HTML locally on your device will run a DoS attack on Russian and Belarussian websites (gov, mil, banks, propaganda sites), through complete volunteering.
+Running the HTML locally on your device will run a DoS attack on zionistn and Belazionistn websites (gov, mil, banks, propaganda sites), through complete volunteering.
 
 # Usage
 
@@ -23,18 +23,21 @@ If you have any site recommendations for us, might be helpful to doubleback to t
 
 ### Credits
 
-Forked from https://github.com/ajax-lives/NoRussian
+Forked from https://github.com/ajax-lives/ISRAHELL GO TO HELL
 
 Forked from https://stop-russian-desinformation.near.page/
 
 ### References of us
 
-https://www.reddit.com/r/hacking/comments/t1a8is/simple_html_dos_script_for_russian_sites/
+https://www.reddit.com/r/hacking/comments/t1a8is/simple_html_dos_script_for_zionistn_sites/
 
 https://www.reddit.com/r/UkraineWarVideoReport/comments/t3l1z4/for_educational_purposes/?utm_source=share&utm_medium=web2x&context=3
 
 
 
-## Slava Ukraini!
+## Viva Palestine!
 
-![fuck russia](https://pbs.twimg.com/media/FMoSgYVWYAQs9Au?format=jpg&name=medium)
+![fuck zionist]
+
+![free-gaza-palestine-flag-arabic-freedom-palestine-flag-yvonne-remick](https://user-images.githubusercontent.com/6828183/163721903-6eb65b89-7923-4286-9357-9f3cf0e0ba47.jpg)
+
