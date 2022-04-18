@@ -1,0 +1,16 @@
+body {
+  padding-top: 50px;
+}
+.starter-template {
+  padding: 40px 15px;
+  text-align: center;
+}
+.element.style {
+  max-width: 302px;
+  color: green;
+  background-color: black;
+}
+* {
+	scrollbar-width: thin !important;
+	scrollbar-color: #37383b #000 !important;
+}
