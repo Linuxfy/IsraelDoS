@@ -35,9 +35,8 @@ https://www.reddit.com/r/UkraineWarVideoReport/comments/t3l1z4/for_educational_p
 
 
 
-## Viva Palestine!
 
-![fuck zionist]
+# Viva Palestine! & FUCK Zionist!
 
 ![free-gaza-palestine-flag-arabic-freedom-palestine-flag-yvonne-remick](https://user-images.githubusercontent.com/6828183/163721903-6eb65b89-7923-4286-9357-9f3cf0e0ba47.jpg)
 
