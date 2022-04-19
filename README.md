@@ -29,10 +29,7 @@ Forked from https://stop-russian-desinformation.near.page/
 
 ### References of us
 
-https://www.reddit.com/r/hacking/comments/t1a8is/simple_html_dos_script_for_zionistn_sites/
-
-https://www.reddit.com/r/UkraineWarVideoReport/comments/t3l1z4/for_educational_purposes/?utm_source=share&utm_medium=web2x&context=3
-
+(⌣́_⌣̀)\(˘⌣˘ ) <(#ForeverAlone)
 
 
 
