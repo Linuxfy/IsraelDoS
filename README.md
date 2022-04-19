@@ -23,7 +23,7 @@ If you have any site recommendations for us, might be helpful to doubleback to t
 
 ### Credits
 
-Forked from https://github.com/ajax-lives/ISRAHELL GO TO HELL
+Forked from https://github.com/ajax-lives/NoRussian
 
 Forked from https://stop-russian-desinformation.near.page/
 
